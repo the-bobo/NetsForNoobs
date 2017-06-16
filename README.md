@@ -10,7 +10,7 @@ This is a simple syllabus for self-study of neural nets. I've gathered readings 
 
 **Supplementary Readings** are cleverly hidden in a section titled "Supplementary Readings," and include topics like natural language processing (NLP)/speech recognition, manifold learning, hyperparameters, metacognition (machine reasoning), and evolutionary computing/genetic algorithms for neural nets.
 
-Each unit should take ~2 weeks, depending on time available and prior familiarity. Contributions to this Project are governed by the Contributor License Agreement (/ContributorLicenseAgreement.txt). Use of this Project is governed by the CC-BY-SA-4.0 License (/LICENSE.txt).
+Each unit should take ~2 weeks, depending on time available and prior familiarity. 
 
 Unit 1: Introduction to Deep Learning and Neural Nets
 ---
@@ -96,7 +96,14 @@ Metacognition / Machine Reasoning
 Evolutionary Computing/Genetic Algorithms with Neural Nets
 ---
 1. “An Evolved Circuit Intrinsic in Silicon Entwined with Physics”, Thompson, Adrian, 1996, https://www.researchgate.net/profile/Adrian_Thompson5/publication/2737441_An_Evolved_Circuit_Intrinsic_in_Silicon_Entwined_With_Physics/links/56f1ffc908ae4744a91eff8d.pdf (Shows an evolved FPGA that looks remarkably recurrent).
+
 2. “Evolving Reusable Neural Modules”, Reisinger, Joseph et al, 2004 http://nn.cs.utexas.edu/downloads/papers/reisinger.gecco04.pdf 
 3. “Artificial Brains. An Inexpensive Method for Accelerating the Evolution of Neural Netwo9rk Modules for Building Artificial Brains”, de Garis et al, http://goertzel.org/agiri06/%5B10%5D AGI-Book-deGaris-2.pdf 
 4. “Automatic Multi-Module Neural Network Evolution in an Artificial Brain”, Dinerstein, Jonathan et al, 2003, http://dl.acm.org/citation.cfm?id=938186&preflayout=tabs 
 5. “Population-Based Incremental Learning: A Method for Integrating Genetic Search Based Function Optimization and Competitive Learning”, Baluja, Shumeet 1994, http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=ACEC8FCF96ABC7E75AB8F4380E0700DC?doi=10.1.1.61.8554&rep=rep1&type=pdf
+
+Licenses
+---
+Contributions to this Project are governed by the Contributor License Agreement (/ContributorLicenseAgreement.txt). 
+
+Use of this Project is governed by the CC-BY-SA-4.0 License (/LICENSE.txt).
